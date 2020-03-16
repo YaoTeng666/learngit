@@ -1,0 +1,10 @@
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\obj\Debug\LiuWriteAndReaderProject.csprojAssemblyReference.cache
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\obj\Debug\LiuWriteAndReaderProject.Form1.resources
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\obj\Debug\LiuWriteAndReaderProject.Properties.Resources.resources
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\obj\Debug\LiuWriteAndReaderProject.csproj.GenerateResource.cache
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\obj\Debug\LiuWriteAndReaderProject.csproj.CoreCompileInputs.cache
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\bin\Debug\LiuWriteAndReaderProject.exe.config
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\bin\Debug\LiuWriteAndReaderProject.exe
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\bin\Debug\LiuWriteAndReaderProject.pdb
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\obj\Debug\LiuWriteAndReaderProject.exe
+D:\MVC企业级开发\代码\Wenjian\LiuWriteAndReaderProject\obj\Debug\LiuWriteAndReaderProject.pdb
